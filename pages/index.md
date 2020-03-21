@@ -3,8 +3,5 @@ layout: home
 title: Welcome
 permalink: /
 section: home
-intro_paragraph: >-
-  Nida Chaudhry provides the basics to get a fast, static website deployed on
-  Netlify. Features [Netlify CMS](https://www.netlifycms.org), responsive CSS
-  Grid layout, sample pages and posts, and a continuous deployment workflow.
+intro_paragraph: <!--StartFragment-->`_layouts/blog.html`<!--EndFragment-->
 ---
